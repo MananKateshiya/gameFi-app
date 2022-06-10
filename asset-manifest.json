@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gameFi-app/static/css/main.04709b80.css",
+    "main.js": "/gameFi-app/static/js/main.aace90d8.js",
+    "index.html": "/gameFi-app/index.html",
+    "main.04709b80.css.map": "/gameFi-app/static/css/main.04709b80.css.map",
+    "main.aace90d8.js.map": "/gameFi-app/static/js/main.aace90d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04709b80.css",
+    "static/js/main.aace90d8.js"
+  ]
+}
