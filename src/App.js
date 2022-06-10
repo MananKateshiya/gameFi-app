@@ -3,6 +3,7 @@ import Category from "./components/Category";
 import { BrowserRouter, Link } from 'react-router-dom';
 import Search from "./components/Search";
 import styled from "styled-components";
+
 import { GrGamepad } from 'react-icons/gr';
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         </Nav>
         <Search />
         <Category />
+      
         <Pages />
       </BrowserRouter>
     </div>
