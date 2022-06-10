@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Nav>
-          <GrGamepad />
+          <GrGamepad  to={"/"}/>
           <Logo to={"/"}>GameFi</Logo>
         </Nav>
         <Search />
