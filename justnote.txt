@@ -1,0 +1,7 @@
+RPG
+Action
+Adventure
+Puzzle
+Shooter
+SinglePlayer
+MultiPlayer
