@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
 import styled from "styled-components";
-import Games from "./Games";
-import Searched from "./Searched";
-import { Route, Routes, useParams } from "react-router-dom";
+
+import { useParams } from "react-router-dom";
 import React from "react";
 
 function GameInfo() {
